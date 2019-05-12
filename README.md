@@ -1,29 +1,16 @@
 ## \# Corruption-aware TRPCA
 
-- [Presentation](https://drive.google.com/open?id=1bxHf7oKntD9uNJ-8q5qvXpu7DT0HGxzH)
-- [Report](https://drive.google.com/open?id=1Sm0lJEVYHk0aeGSZXN9YPnzYhK3Pe0Sj)
+- [Presentation](https://drive.google.com/open?id=1PP6Tqltwe5o6lArMs1vimC35aDFFVY_i)
+- [Report](https://drive.google.com/open?id=1APwhPGGG5o180JRPFwGcdVyytE2S2G0i)
 - [Video1](https://drive.google.com/open?id=1tns-D5V6Z5M9p3jz1iLf43f4JB5o3lw2)  [Video2](https://drive.google.com/open?id=1L-ILS1GszEG2CpMvH1BLvuAXN_faQZGr) 
 
 ### \# Commands
 
-- RPCA
-
-  ```
-  python rpca.py "video name"
-  ```
-
-- TRPCA
-
-  ```
-  python trpca.py "video name"
-  ```
-
-- CATRPCA
-
-  ```
-  python catrpca.py "video name"
-  ```
-
+```
+python rpca.py "video name"    # RPCA
+python trpca.py "video name"   # TRPCA
+python catrpca.py "video name" # CATRPCA
+```
 ## \# Results
 
 ![](./test.png)
